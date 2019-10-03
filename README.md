@@ -5,6 +5,7 @@ This repo contains various code samples for DL in TF 2.0
   <img src="imgs/tensorflow2.png" width="250" align="middle">
 </p>
 
+TensorFlow 2.0 stable was released on 1st October, 2019. TensorFlow 2.0 offers many performance improvements on GPUs. TensorFlow 2.0 delivers up to 3x faster training performance.
 
 # Installation
 
@@ -34,3 +35,19 @@ In [4]: tf.test.is_gpu_available()
 Out[4]: True
 
 ```
+
+# Contents
+
+- TensorFlow 2.0 Quickstart Sample
+- TensorFlow 2.0 Basic Usage Samples
+- Custom Training in TensorFlow 2.0
+
+Feel free to submit a **PR** to contribute to this repo.
+ 
+
+
+# Refered Repos
+
+- https://github.com/madalinabuzau/tensorflow-eager-tutorials
+- https://github.com/tensorflow/docs
+- https://github.com/github/gitignore/blob/master/Python.gitignore
