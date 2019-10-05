@@ -57,3 +57,4 @@ venv.bak/
 .spyderproject
 .spyproject
 
+04_save_load_models/tmp/mobilenet/1/*
